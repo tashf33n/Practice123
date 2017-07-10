@@ -1,0 +1,9 @@
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\bin\Debug\netcoreapp1.1\Practice123.deps.json
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\bin\Debug\netcoreapp1.1\Practice123.runtimeconfig.json
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\bin\Debug\netcoreapp1.1\Practice123.runtimeconfig.dev.json
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\bin\Debug\netcoreapp1.1\Practice123.dll
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\bin\Debug\netcoreapp1.1\Practice123.pdb
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\obj\Debug\netcoreapp1.1\Practice123.csprojResolveAssemblyReference.cache
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\obj\Debug\netcoreapp1.1\Practice123.AssemblyInfo.cs
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\obj\Debug\netcoreapp1.1\Practice123.dll
+c:\users\syed.tashfeen\documents\visual studio 2017\Projects\Practice123\Practice123\obj\Debug\netcoreapp1.1\Practice123.pdb
